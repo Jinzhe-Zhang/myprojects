@@ -15,3 +15,10 @@
 ### 四、[前端项目](https://github.com/Jinzhe-Zhang/myprojects/tree/master/Front_End)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.[工银e收款](https://github.com/Jinzhe-Zhang/ICBC-e-collection)——作为队长，带领团队参加2018ICBC-IBM全国大学生金融科技创新大赛，进入20强决赛。 （90%+由我自己完成）
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.[Ecobank](https://github.com/Jinzhe-Zhang/Ecobank)——2017年“花旗杯”金融创新应用大赛，获得全国第九名，我主要负责高德地图API的调用模块，前端Login界面整个的重做以及某些字体大小，排版的修改 （辅助学长完成）
+### 五、[自己练习写的小型程序代码](https://github.com/Jinzhe-Zhang/myprojects/tree/master/MySmallprocedure)
+所有的代码已经按编程语言类型归档：
++ [ruby](https://github.com/Jinzhe-Zhang/ruby)
++ [c/c++](https://github.com/Jinzhe-Zhang/c)
++ [python](https://github.com/Jinzhe-Zhang/python)
++ [web](https://github.com/Jinzhe-Zhang/html)
++ [go](https://github.com/Jinzhe-Zhang/go)
