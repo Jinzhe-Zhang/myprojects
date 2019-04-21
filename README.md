@@ -1,5 +1,6 @@
 # myprojects
 ### (文档持续更新中...)
+### 最近在做[rails的网站](http://120.77.158.41),代码会自动定时从[sample_app](https://github.com/Jinzhe-Zhang/myprojects/tree/master/DeepLearning)中更新。
 ### 我的项目索引
 ### 一、[图形编程项目](https://github.com/Jinzhe-Zhang/myprojects/tree/master/DeepLearning)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.[小蓝](https://github.com/Jinzhe-Zhang/Indigo3D)——虽然不是比赛项目但我认为是大学做得最成功的项目 （90%独立完成）
