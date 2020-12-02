@@ -1,5 +1,5 @@
 # myprojects
-### (文档持续更新中...)
+### (文档~~持续~~断断续续更新中...)
 ### 我的项目索引
 ### 一、图形编程项目
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.[小蓝](https://github.com/Jinzhe-Zhang/Indigo3D)——虽然不是比赛项目但我认为是大学做得最成功的项目 （90%独立完成）
