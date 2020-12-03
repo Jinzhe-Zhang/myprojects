@@ -12,7 +12,8 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.[2019年3月华为挑战赛](https://github.com/ZiUNO/CodeCraft)——我参与的第一个组队编程github项目不过由于了解这次比赛太晚导致时间太紧，没有进入到复赛 （三人组队完成）
 ### 三、深度学习项目
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.[犬种识别项目](https://github.com/Jinzhe-Zhang/Dog_species_recognition) （独立完成）
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.[破镜重圆——碎片修复与复原技术](https://github.com/Jinzhe-Zhang/Fracture_Extraction) （辅助学长完成）
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.[机器学习笔记](https://github.com/Jinzhe-Zhang/machine_learning_notes) 一部分我在自学机器学习时的代码
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.[破镜重圆——碎片修复与复原技术](https://github.com/Jinzhe-Zhang/Fracture_Extraction) （辅助学长完成）
 ### 四、前端项目
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.[工银e收款](https://github.com/Jinzhe-Zhang/ICBC-e-collection)——作为队长，带领团队参加2018ICBC-IBM全国大学生金融科技创新大赛，进入20强决赛。 （90%+由我自己完成）
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.[Ecobank](https://github.com/Jinzhe-Zhang/Ecobank)——2017年“花旗杯”金融创新应用大赛，获得全国第九名，我主要负责高德地图API的调用模块，前端Login界面整个的重做以及某些字体大小，排版的修改 （辅助学长完成）
